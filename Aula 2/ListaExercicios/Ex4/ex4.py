@@ -26,8 +26,8 @@ calc = n1 / n2
 print("\n%d / %d = %d", n1, n2, calc)
 
 # Divisao
-calcu = n1 / n2
-print("\n%d / %d = %.2f", n1, n2, calcu)
+calc = n1 / n2
+print("\n%d / %d = %.2f", n1, n2, calc)
 
 # Resto
 calc = n1 % n2
