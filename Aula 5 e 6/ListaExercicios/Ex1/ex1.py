@@ -16,3 +16,6 @@ if (ehPrimo(n1)):
     print(f"Numero ({n1}) é primo")
 else:
     print(f"Numero ({n1}) não é primo")
+
+
+

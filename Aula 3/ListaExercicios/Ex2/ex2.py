@@ -1,4 +1,3 @@
-
 # Exercício 2) Ler dois números inteiros e informar: a) Se ambos são divisíveis por 5. b) Se pelo menos um deles é divisível por 5. c) Se ambos são pares. d) Se ambos são ímpares. e) Se pelo menos um deles é ímpar.
 
 num1 = int(input())
