@@ -2,9 +2,10 @@
 # Dica: utilize biblioteca "random" do python para esse exercício
 
 import random
-from numbers import Number
 
 n1 = random.randint(0, 10)
+
+
 nTentativas = 1
 
 print("=== Acerte o número escolhido pelo computador ===")
