@@ -1,4 +1,3 @@
-#Exercício 5)Elabore um programa que, dada a idade de um jogador de futebol, classifique-o em uma das seguintes categorias:
 idade = int(input("Digite a idade: "))
 
 if idade < 0:

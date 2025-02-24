@@ -1,5 +1,3 @@
-## Faça um algoritmo que simule um caixa eletrônico para executar operações de saque, depósito e extrato
-
 listaOperacoes = []
 
 opcao = 1

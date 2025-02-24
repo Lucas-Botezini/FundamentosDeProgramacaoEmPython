@@ -1,4 +1,3 @@
-#Exercício 5) Ler uma série de números indicados pelo usuário até ser informado o valor zero. Encontrar e mostrar o maior e o menor dos valores informados pelo usuário. O valor zero indica o final da leitura e não deve ser considerado.
 maior = 0
 menor = 0
 

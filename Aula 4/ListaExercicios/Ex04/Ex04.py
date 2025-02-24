@@ -1,4 +1,3 @@
-#Exercício 4) Ler um número maior que 2 e imprimir todos os pares entre 2 e o número lido. Imprimir a soma dos pares, o produto dos ímpares que são divisíveis por 9 e a média de todos os números do intervalo.
 numero = int(input("Digite um número maior que 2: "))
 
 if numero <= 2:
